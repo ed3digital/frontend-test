@@ -47,16 +47,6 @@ Emails:
 _**luiz.felipe@ed3.com.br**_.
 Caso for enviar por e-mail, nos passe o link do seu github.
 
-## Bonus points de entrega
-
-* Crie uma issue aqui neste repositório, com as seguintes informações:
-  * Título _"Vaga [Júnior|Pleno|Senior|Tech Lead]"_ (de acordo com o perfil que está se candidatando)
-  * URL do teste hospedado (para que possamos visualizar o resultado final)
-  * Nome completo
-* Não esquecer de enviar seu currículo por e-mail para _**cv@ed3.com.br**_, seguindo estas diretrizes:
-  * Assunto _"Vaga Front-End **[Júnior|Pleno|Senior|Tech Lead"]**"_ (de acordo com o perfil que está se candidatando)
-
----
 
 #### Boa sorte!
 
