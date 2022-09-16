@@ -7,7 +7,7 @@ Objetivo deste teste é avaliar seus conhecimentos em organização, estilo, boa
 Somos especializados em soluções e implementações de lojas virtuais na plataforma VTEX. Desenvolvemos incríveis experiências de navegação e compras, focadas no usuário e em sua jornada na loja. Para isso tratamos nossos clientes, suas marca e seus consumidores de forma personalizada e entendendo ao máximo suas necessidades na transformação digital do negócio e inovação.
 
 ## Proposta
-O seu desafio é codificar [esse layout](https://www.figma.com/file/ctqLzWR6iHmif00qlK7ewK/ED3---Test-Front-end?node-id=201%3A414), com todas as interações da página (minicart, 
+O seu desafio é codificar [esse layout](https://www.figma.com/file/ctqLzWR6iHmif00qlK7ewK/ED3---Test-Front-end?node-id=201%3A414), com todas as interações de adicionar o produto ao minicart
 
 ## Obrigatório
 * HTML e CSS 
